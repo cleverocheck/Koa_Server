@@ -1,0 +1,19 @@
+{
+  "name": "Koa_Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-body": "^4.1.1",
+    "koa-router": "^8.0.8",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
+  }
+}
